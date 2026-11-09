@@ -21,7 +21,7 @@ Each button's operation, value, and label can be customized. The preferences als
 
 ## Installation
 
-In Blender, open **Edit → Preferences → Get Extensions** and choose **Install from Disk** from the upper-right menu. Select the release ZIP and enable **简单调整 · Easy Adjust**.
+In Blender, open **Edit → Preferences → Get Extensions** and choose **Install from Disk** from the upper-right menu. Select `easy_adjust-1.1.2.zip` and enable **Easy Adjust**.
 
 The package declares Blender 4.2.7 or later. The current release has been tested on Windows with Blender 5.2.3 LTS. Some third-party custom controls may be unsupported.
 

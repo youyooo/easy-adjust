@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+id = "numeric_quick_adjust"
+version = "1.1.2"
+name = "Easy Adjust"
+tagline = "Theme-aware numeric hover buttons and middle mouse ladder"
+maintainer = "youyooo"
+type = "add-on"
+website = "https://github.com/youyooo/easy-adjust"
+support = "https://github.com/youyooo/easy-adjust/issues"
+tags = ["User Interface"]
+blender_version_min = "4.2.7"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["/__pycache__/", "/tests/", "*.pyc"]
